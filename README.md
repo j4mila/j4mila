@@ -23,4 +23,4 @@ Currently, I'm gaining hands-on experience as a Digital & Analytics Intern at Ca
 
 ### let's connect
 - [LinkedIn](linkedin.com/in/jamila-saunders-808b24306)
-- [GitHub](YOUR_GITHUB_URL)
+- [Email](jamila.saunders5@gmail.com)
