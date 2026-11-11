@@ -1,16 +1,26 @@
-## Hi there 👋
+# hi, i'm jamila :)
 
-<!--
-**j4mila/j4mila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Software Engineering | Full Stack Development
+I'm a Computer Science student at the University of Illinois Chicago (UIC), passionate about full-stack development, artificial intelligence, and building technology that makes a difference.
 
-Here are some ideas to get you started:
+Currently, I'm gaining hands-on experience as a Digital & Analytics Intern at Caterpillar Inc., working on real-world software engineering projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### tech stack
+- **Languages:** Java, Python, JavaScript, TypeScript, C++, SQL
+- **Frontend:** React, Vue.js, HTML, CSS, Tailwind CSS
+- **Backend:** Java, REST APIs
+- **Tools:** Git, GitHub, Azure, VS Code
+
+### featured projects
+- **SiteLine** — AI-powered fleet management dashboard for construction teams.
+- **Quaddle** — Campus marketplace connecting college students.
+- **UIC Bowling Website** — Interactive bowling reservation web application.
+
+### currently
+- Exploring full-stack development and AI
+- Building projects and improving my software engineering skills
+- Studying Computer Science at UIC
+
+### let's connect
+- [LinkedIn](linkedin.com/in/jamila-saunders-808b24306)
+- [GitHub](YOUR_GITHUB_URL)
