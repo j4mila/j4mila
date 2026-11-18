@@ -9,7 +9,7 @@ Currently, I'm gaining hands-on experience as a Digital & Analytics Intern at Ca
 - **Languages:** Java, Python, JavaScript, TypeScript, C++, SQL
 - **Frontend:** React, Vue.js, HTML, CSS, Tailwind CSS
 - **Backend:** Java, REST APIs
-- **Tools:** Git, GitHub, Azure, VS Code
+- **Tools:** Git, GitHub, Azure DevOps, VS Code
 
 ### 🐻 featured projects ~
 - **SiteLine** - AI-powered fleet management dashboard for construction teams.
