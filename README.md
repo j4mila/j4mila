@@ -11,7 +11,7 @@ Currently, I'm gaining hands-on experience as a Digital & Analytics Intern at Ca
 - **Backend:** Java, REST APIs
 - **Tools:** Git, GitHub, Azure, VS Code
 
-### 🧃 featured projects
+### 🐻 featured projects
 - **SiteLine** — AI-powered fleet management dashboard for construction teams.
 - **Quaddle** — Campus marketplace connecting college students.
 - **UIC Bowling Website** — Interactive bowling reservation web application.
